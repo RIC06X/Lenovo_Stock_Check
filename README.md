@@ -1,4 +1,4 @@
-# Lenovo_Stock_Check
+# Lenovo Store Stock Check
 Check Lenove online store's Computer Partnumber, prices and stock information
 
 **Required Packages:**
